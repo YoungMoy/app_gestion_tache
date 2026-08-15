@@ -1,0 +1,15 @@
+# app_gestion_tache
+app cli de gestion de tache en dart
+Ce projet est une application en ligne de commande (CLI) permettant de gérer des tâches avec persistance locale en JSON.  
+Développé en Dart pur(sans Flutter)
+ Fonctionnalités
+Ajouter une tâche (titre, priorité : low/medium/high, date limite optionnelle)
+Lister toutes les tâches (tri par priorité ou date)
+Marquer une tâche comme terminée
+Supprimer une tâche
+Sauvegarder et charger les tâches depuis un fichier JSON (taches.json)
+ Exigences techniques respectées
+Utilisation de classes abstraites et héritage (Tache → UrgenteTache)
+Implémentation d’une interface générique (`repo<T>`)
+Gestion des erreurs avec une exception personnalisée (`TacheException`)
+Tests unitaires avec le package `test` (au moins 5)
