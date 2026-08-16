@@ -1,7 +1,0 @@
-name: app_gestion_tache
-description: Application CLI en Dart pour gérer des tâches avec tests unitaires
-version: 1.0.0
-environment:
-  sdk: '>=3.0.0 <4.0.0'
-dev_dependencies:
-  test: ^1.24.0
