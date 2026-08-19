@@ -1,9 +1,0 @@
-name: app_gestion_tache
-description: un petit gestionnaire de tache en Dart avec persistance JSON et tests unitaires.
-version: 1.0.0
-
-environment:
-  sdk: ">=3.0.0 <4.0.0"
-
-  dev_dependencies:
-    test: ^1.24.0
