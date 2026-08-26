@@ -1,0 +1,80 @@
+[
+  {
+    "titre": "Lire un livre",
+    "priorite": "high",
+    "estTerminee": false,
+    "dateLimite": null,
+    "type": "PersonalTask"
+  },
+  {
+    "titre": "Faire les courses",
+    "priorite": "medium",
+    "estTerminee": false,
+    "dateLimite": null,
+    "type": "PersonalTask"
+  },
+  {
+    "titre": "Envoyer un mail",
+    "priorite": "low",
+    "estTerminee": false,
+    "dateLimite": null,
+    "type": "PersonalTask"
+  },
+  {
+    "titre": "Envoyer un mail terminé",
+    "priorite": "low",
+    "estTerminee": true,
+    "dateLimite": null,
+    "type": "PersonalTask"
+  },
+  {
+    "titre": "Tâche A",
+    "priorite": "low",
+    "estTerminee": false,
+    "dateLimite": "2026-08-20T00:00:00",
+    "type": "PersonalTask"
+  },
+  {
+    "titre": "Tâche B",
+    "priorite": "high",
+    "estTerminee": false,
+    "dateLimite": "2026-08-18T00:00:00",
+    "type": "PersonalTask"
+  },
+  {
+    "titre": "Tâche C",
+    "priorite": "medium",
+    "estTerminee": false,
+    "dateLimite": null,
+    "type": "PersonalTask"
+  },
+  {
+    "titre": "Projet à rendre",
+    "priorite": "high",
+    "estTerminee": false,
+    "dateLimite": "2026-08-30T23:59:00",
+    "type": "UrgentTask"
+  },
+  {
+    "titre": "Aller au sport",
+    "priorite": "medium",
+    "estTerminee": false,
+    "dateLimite": null,
+    "type": "PersonalTask",
+    "categorie": "Santé"
+  },
+  {
+    "titre": "Test sauvegarde",
+    "priorite": "medium",
+    "estTerminee": false,
+    "dateLimite": null,
+    "type": "PersonalTask"
+  },
+  {
+    "titre": "Test terminé",
+    "priorite": "high",
+    "estTerminee": true,
+    "dateLimite": null,
+    "type": "PersonalTask"
+  }
+]
